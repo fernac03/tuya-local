@@ -142,6 +142,7 @@
 - Pool Systems IPS Pro pool heat pump (also Fairland Inver-X)
 - Pro-Energy PE08 pool heat pump
 - Remora pool heat pump
+- Swim & Fun InverBoost pool heat pump
 - W'eau pool heat pump (simple model and a more complex 13kW model)
 
 - these seem to use a small number of common controllers with minor variations, and many other Pool heat pumps will work using the above configurations.
@@ -164,6 +165,7 @@
 - ITS-4.5HD super water heat pump
 - Koi Duo HTW-TD-080KOID
 - Modena ES-15-SKY water heater
+- Nulite NL-B245 monobloc heat pump
 - Powerworld PW58330 hot water and climate heat pump
 - Powerworld PW58410 hot water and climate heat pump
 - Sanden GAU-A45HPD WiFi heat pump controller
@@ -237,6 +239,7 @@
 - Aeratron AE3+ ceiling fan (may match other Aeratron models with same WiFi module)
 - Amico 52" ceiling fan with light
 - Anko HEGSM40 fan
+- Arida Venti 160 small through-wall heat-recovery ventilation fan
 - Arlec ceiling fan and light remote control kit (CFR225HA also works for Sulion Cadillac)
 - Arlec Grid Connect smart ceiling fan (with and without light)
 - Arlec 12 speed tower fan
@@ -269,6 +272,7 @@
 - Goldair GCPF315 fan
 - Goldair Platinum tower fan (2 variants)
 - Hiper T3 bladeless fan
+- Hoenofly Smart Amari ceiling fan with light
 - Homebase 12" oscillating fan
 - Hunter Pacific 9 speed ceiling fan with light
 - HYD WeAir Plus bladeless fan with heating function
@@ -345,6 +349,7 @@
 - Cecotec BigDry 4000 dehumidifier
 - Clean Air Optima CA-702 dehumidifier
 - Cleverio AD100 dehumidifier
+- Climative DH-20S Cube ION dehumidifier
 - DH-CSK03W dehumidifier
 - Ebac DJ4000 dehumidifier
 - Eberg Rico R12E2 dehumidifier
@@ -442,6 +447,7 @@
 - Silvercrest coffee maker
 - Silvercrest HF-6602T air fryer
 - Ultenic K10 air fryer
+- Wandai GS-801 infant formula maker (sold as Easybaby, Gustino)
 - Weekett smart kettle
 
 ### Smart Meter/Circuit Breaker

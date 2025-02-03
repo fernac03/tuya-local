@@ -831,3 +831,9 @@ Further device support has been made with the assistance of users. Please consid
 - [yaro24](https://github.com/yaro24) for contributing support for Jiahong ET-44W thermostat.
 - [point2start](https://github.com/point2start) for assisting with support for Atorch AT4PTW thermostat.
 - [maLLoud86](https://github.com/maLLoud86) for assisting with support for iSparkle Curtain Micro Lights.
+- [josvink66](https://github.com/josvink66) for assisting with support for Easybaby GS-801 infant formula maker.
+- [Karlsons88](https://github.com/Karlsons88) for assisting with support for Nulite monobloc heat pump.
+- [Watanuki-kun](https://github.com/Watanuki-kun) for assisting with support for Smart Amari ceiling fan with light.
+- [aherbjornsen](https://github.com/aherbjornsen) for assisting with support for Arida Venti 160 ventilation fan.
+- [lewiatanx](https://github.com/lewiatanx) for assisting with support for Climative Cube ION dehumidifier.
+- [storebatfar](https://github.com/storebatfar) for assisting with support for Swim & Fun InverBoost pool heat pump.
