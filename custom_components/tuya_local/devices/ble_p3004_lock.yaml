@@ -56,8 +56,6 @@ entities:
         type: integer
         optional: true
         persist: false 
-      - id: 34
-        name: lock      
       - id: 40 # Lock motor state
         name: lock_motor_state
         type: boolean
@@ -74,7 +72,7 @@ entities:
         persist: false
       - id: 61
         type: string
-        name: remote_no_dp_key
+        name: lock
         optional: true
         persist: false
       - id: 62
