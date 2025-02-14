@@ -70,16 +70,22 @@ entities:
         name: unlock_temp_pwd
         optional: true
         persist: false
-      - id: 61
-        type: string
+      - id: 46
+        type: boolean
         name: lock
         optional: true
-        persist: false
+        mapping:
+          - dps_val: null
+            value_mirror: lock_motor_state     
       - id: 62
         type: integer
         name: unlock_app
         optional: true
         persist: false
+      - id: 69
+        type: string
+        optional: true
+        name: lock_record  
   - entity: sensor
     name: Alert
     class: enum
@@ -170,6 +176,22 @@ entities:
             value: true
           - dps_val: false
             value: false
+  - entity: switch
+    name: TRINCO46
+    category: config
+    icon: "mdi:lock"
+    dps:
+      - id: 46
+        type: boolean
+        name: switch
+  - entity: switch
+    name: TRINCO61
+    category: config
+    icon: "mdi:lock"
+    dps:
+      - id: 61
+        type: boolean
+        name: switch      
   - entity: number
     name: Auto lock delay
     icon: "mdi:lock-clock"
